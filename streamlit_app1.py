@@ -1,8 +1,8 @@
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 import streamlit as st 
 import time
-load_dotenv()
+#load_dotenv()
 #from langchain_openai import OpenAI
 #llm=OpenAI()
 #result = llm.invoke("내가 좋아하는 동물은 ")
